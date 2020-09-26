@@ -45,3 +45,6 @@ After browsing through multiple *web-dev* websites, we came up with the idea of 
 - [Cony](https://github.com/nicolas-racchi)
 - [anhnguyen](https://github.com/quynhanh-ngx)
 - [spidey](https://github.com/sedhha)
+
+
+    Note that current made cvs can be found [here](src/templates/).
