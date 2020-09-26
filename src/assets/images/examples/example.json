@@ -1,0 +1,58 @@
+{
+    "id": 1,
+    "user": "quynhhanhh",
+    "name": "Anh Quynh Nguyen",
+    "contact_email": "nguyenquynhanh2803@gmail.com",
+    "contact_phone": "7049608435",
+    "projects": [
+        {
+            "resume": 1,
+            "name": "Anh Quynh Nguyen",
+            "description": "Allows users to generate resumes from JSON",
+            "start_date": "2020-08-25",
+            "end_date": null,
+            "location": "Charlotte, NC",
+            "link": "https://resume-templater.ue.r.appspot.com/"
+        }
+    ],
+    "skills": [
+        {
+            "resume": 1,
+            "name": "Python",
+            "category": "Programming"
+        },
+        {
+            "resume": 1,
+            "name": "JavaScript",
+            "category": "Programming"
+        },
+        {
+            "resume": 1,
+            "name": "Django",
+            "category": "Backend"
+        },
+        {
+            "resume": 1,
+            "name": "Flask",
+            "category": "Backend"
+        },
+        {
+            "resume": 1,
+            "name": "React",
+            "category": "Frontend"
+        }
+    ],
+    "links": [],
+    "education": [
+        {
+            "resume": 1,
+            "name": "UNC Charlotte",
+            "completion_date": "2023-05-15",
+            "gpa": 4.0,
+            "degree": "B.S.",
+            "major": "Computer Science",
+            "coursework": "A string describing my coursework could go here."
+        }
+    ],
+    "images": []
+}

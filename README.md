@@ -1,68 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Web Jsonify
 
-## Available Scripts
+**An open source and fully white-labelled platform to view, design, customize and create static websites.**
 
-In the project directory, you can run:
+![](src/assets/readme_files/webjsonifygifpc.gif)
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## What is Web Jsonify?
 
-### `yarn test`
+**Web Jsonify** is an attempt to create open source *Frontend Development Repository* that enables developers and designers to create amazing front-end designs that are available in different frameworks **(like React/ Angular/ Vu)**.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here the designers can pick up a template and structurize their json data which acts as a parser to build their frontend website. Currently we have focussed on creating the cv based websites, but the functionality can be expanded further to many other types of templates (like *e-commerce, blogging, data dashboards, etc.*)
 
-### `yarn build`
+![](src/assets/readme_files/json.jpg)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Moreover the developers have access to entire source code and can customize the templates to beautify them and make them even more charming and then share their templates to showcase to their dev skills and contribute to frontend open source community.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![View the files in code sandbox](src/assets/readme_files/first30demo.gif)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What do we Aim For ?
 
-### `yarn eject`
+After browsing through multiple *web-dev* websites, we came up with the idea of building an open source easy and reliable solution that could help freshers, job seekers and web developers to showcase their frontend development skills, by using this platform to use, create, beautify, share, showcase and contribute to frontend developers community.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Upcoming and Planned Features for Web Jsonify
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![](src/assets/readme_files/../images/welcomepage.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Open Source Web Templates (CV/ Blogging/ Data Dashboards/ etc.)
+- Full Developer Level Access
+- Easy Json to CV Website Converter for Non-Developers
+- Stars, Ratings and many other User Download Supports.
+- No Watermarking or Labelling.
+- Angular, Vu and other popular frontend framework support.
+- Drag and Design for Non-Developers
+- Advanced Animation
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Tools And FrameWorks Used
+- Django
+- React JS
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Contributors:
+- [Cony](https://github.com/nicolas-racchi)
+- [anhnguyen](https://github.com/quynhanh-ngx)
+- [spidey](https://github.com/sedhha)
