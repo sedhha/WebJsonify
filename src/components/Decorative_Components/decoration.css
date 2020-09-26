@@ -17,6 +17,16 @@
     color: black;
     cursor: pointer;
     background-color: #ccf6c8;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none!important;
+    color: inherit!important;
+}
+a:hover {
+    text-decoration: none!important;
+    color: inherit!important;
 }
 
 .Table-Cell-Rep
