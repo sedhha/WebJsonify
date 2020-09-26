@@ -3,3 +3,35 @@
     margin-top: 3rem;
     text-align: center;
 }
+
+.Construction
+{
+    font-size: 3rem;
+    color: #1d2d50;
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.SubmitButton
+{
+    margin-top: 1%;
+    margin-left: 40%;
+    border: none;
+    background-color: #32e0c4;
+    color: #fff;
+    transition: 0.5s;
+    font-size: 1.2rem;
+    border-color: #32e0c4;
+    padding: 0.3%;
+    width: 20%;
+    border-radius: 0.5rem;
+}
+.SubmitButton:hover
+{
+    transform: scale(1.2);
+    background-color: #e0ece4;
+    border-color: #e0ece4;
+    color: #000;
+    border: none;
+
+}

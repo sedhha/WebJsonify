@@ -7,7 +7,7 @@ function LoginPage()
 {
     return (
         <Container>
-          <h2 className = "MidHeaders">Log In to WebJsonify</h2>
+          <h2 className = "MidHeaders">Log In to Web-Jsonify</h2>
           <Form className="form">
             <Col>
               <FormGroup>
@@ -31,7 +31,7 @@ function LoginPage()
                 />
               </FormGroup>
             </Col>
-            <Button>Submit</Button>
+            <button className ="SubmitButton">Submit</button>
           </Form>
         </Container>
       );
