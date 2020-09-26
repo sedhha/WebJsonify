@@ -1,0 +1,15 @@
+.HeaderWidth
+{
+    background-color: #32e0c4;
+    height: 3rem;
+    display: table;
+    width: 100%;
+}
+
+.ActiveRouter
+{
+    transform: scale(1.2);
+    color: black;
+    cursor: pointer;
+    background-color: #ccf6c8;
+}
