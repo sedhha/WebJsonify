@@ -1,8 +1,9 @@
 # Web Jsonify
 
-**An open source and fully white-labelled platform to view, design, customize and create static websites.**
+**An open source and fully white-labelled platform to view, design, customize and create static websites. Build your CV Website with the help of a Json File!**
 
 ![](src/assets/readme_files/webjsonifygifpc.gif)
+![](src/assets/readme_files/editing_cv.png)
 
 
 
