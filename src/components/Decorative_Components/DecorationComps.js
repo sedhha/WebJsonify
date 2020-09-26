@@ -9,7 +9,7 @@ function HeaderElements(props)
 {
     return(
         <div className = "HeaderOptions">
-        <Link to = "/login">{props.title}</Link>
+        <Link to = {props.headerhrefs}>{props.title}</Link>
         
         </div>
     );

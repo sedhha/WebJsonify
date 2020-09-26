@@ -11,9 +11,9 @@ import {BrowserRouter, Route} from 'react-router-dom';
 function App() {
   return (
     <div>
+    <BrowserRouter>
     <Header HeaderNames = {GlobalSiteConstants.HeaderNames}
     HeaderHrefs = {GlobalSiteConstants.HeaderHrefs}/>
-    <BrowserRouter>
     <Route exact path = "/"><HomePage / ></Route>
     <Route exact path = "/login"><LoginPage / ></Route>
     </BrowserRouter>
